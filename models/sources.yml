@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: PAWANPREET_DIT45604
+    description: "Class test data"
+    database: PAWANPREET_DIT45604
+    schema: CLASS_TEST
+    tables: 
+      - name: CUSTOMER
+        description: " this is a customer table info"
+      - name: ORDERS
+        description: " this is a orders table info"
+      - name: PRODUCT
+        description: " this is a product table info"
